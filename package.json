@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-basic-auth-header",
+  "version": "0.0.1",
+  "main": "main.js",
+  "insomnia": {
+    "name": "basic-auth-header",
+    "displayName": "Basic-Auth-Header Plugin",
+    "description": "The Basic-Auth-Header templateTag generates a base64 encoded header string from a username and password. (\"Basic <base64>\")"
+  }
+}
