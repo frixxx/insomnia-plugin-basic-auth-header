@@ -27,3 +27,6 @@
 
 ## Screenshot
 [<img src="./screenshot.png" />](screenshot.png)
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
